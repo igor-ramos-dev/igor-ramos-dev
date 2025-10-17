@@ -17,13 +17,6 @@ Atualmente, estou me especializando em **JavaScript**: React e Node.js construin
 
 ---
 
-### 🚀 Projetos em destaque
-
-- [📘 **MyContacts**](https://github.com/igor-ramos-dev/mycontacts)  
-  CRUD de contatos desenvolvido com **React**, **Node.js**, **Docker** e **PostgreSQL**, explorando conceitos de front e back integrados.
-
----
-
 ### 🎯 Objetivo profissional
 Atualmente, busco **minha primeira oportunidade na área de desenvolvimento Full Stack**, onde possa aplicar meus conhecimentos, aprender com uma equipe experiente e contribuir em projetos reais.
 
