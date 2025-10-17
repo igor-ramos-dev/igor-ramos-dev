@@ -19,7 +19,7 @@ Atualmente, estou me especializando em **JavaScript**: React e Node.js construin
 
 ### 🚀 Projetos em destaque
 
-- [📘 **MyContacts**](https://github.com/igor-ramos/mycontacts)  
+- [📘 **MyContacts**](https://github.com/igor-ramos-dev/mycontacts)  
   CRUD de contatos desenvolvido com **React**, **Node.js**, **Docker** e **PostgreSQL**, explorando conceitos de front e back integrados.
 
 ---
@@ -31,9 +31,10 @@ Atualmente, busco **minha primeira oportunidade na área de desenvolvimento Full
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igor-ramos&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ramos&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igor-ramos-dev&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-ramos-dev&layout=compact&theme=transparent&hide_border=true" />
 </div>
+
 
 ---
 
